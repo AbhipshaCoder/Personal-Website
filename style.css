@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: coral
+}
+
+#h1{
+    text-shadow: 2px 2px grey;
+    color: aquamarine
+}
+
+#h2{
+    text-shadow: 2px 2px grey;
+    color: aquamarine;
+}
+
+#p{
+    color: aquamarine;
+}
+
+img{
+    border-radius: 50px;
+    width: 100px;
+}
